@@ -1,4 +1,4 @@
-,age,bmi,children,smoker,premium
+Id,age,bmi,children,smoker,premium
 0,18,16.0,0,0,1694.8
 1,21,16.8,1,0,3167.46
 2,38,16.8,2,0,6640.54
